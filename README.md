@@ -2,10 +2,17 @@
 ## I'm Chris McGivney
 #### Full Stack Developer, aspiring content creator, newbie blogger.
 ![Full Stack Developer, aspiring content creator, newbie blogger.](https://i1.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?resize=1024%2C256&ssl=1)
-<!-- Actual text -->
 
+<!-- About Me -->
+I am fresh in this world that I hardly knew existed. Every time I learn one thing, a dozen new things pop up that I never knew were there. I have been studying, learning, practicing with every free moment (even if its just an hour or a few minutes to read an article). I am eager to break into this industry, where exactly I am not sure yet, still finding out my strengths from my weaknesses, but I will succeed. 
+
+<!-- Actual text -->
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+[![Twitter: ChrisMcGivney](https://img.shields.io/twitter/follow/chris_mcgivney?style=social)](https://twitter.com/chris_mcgivney)
+[![Linkedin: ChrisMcGivney](https://img.shields.io/badge/-ChrisMcgivney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-mcgivney/)](https://www.linkedin.com/in/chris-mcgivney/)
+
+[![GitHub ChrisMcGivney](https://img.shields.io/github/followers/CMcGivney?label=follow&style=social)](https://github.com/CMcGivney)
 <!-- Icons -->
 
 [1.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-32.png (twitter icon)
@@ -17,8 +24,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/chris_mcgivney
 [2]: https://www.linkedin.com/in/chris-mcgivney/
 
-<!-- About Me -->
-I am fresh in this world that I hardly knew existed. Every time I learn one thing, a dozen new things pop up that I never knew were there. I have been studying, learning, practicing with every free moment (even if its just an hour or a few minutes to read an article). I am eager to break into this industry, where exactly I am not sure yet, still finding out my strengths from my weaknesses, but I will succeed. 
 
 ## 🛠️ Technologies & Tools
 
