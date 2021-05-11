@@ -7,7 +7,9 @@ I am fresh in this world that I hardly knew existed. Every time I learn one thin
 Skills: REACT / JS / HTML / CSS / GRAPHQL / NODE
 
 ![](https://img.shields.io/badge/REACT-FUN-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/CSS-HARD-informational?style=flat&logo=Css&logoColor=yellow&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-MultiTool-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VsCode&logoColor=white&color=2bbc8a)
 - 🔭 I’m currently working on this page.
 -  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMcGivney&show_icons=true&theme=radical)
