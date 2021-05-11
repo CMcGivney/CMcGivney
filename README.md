@@ -1,20 +1,13 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/CMcGivney/CMcGivney/readme_header.png "Header")](https://www.1984Creations.com/)
+### Hi there 👋, my name is Chris McGivney
+#### Full Stack Developer, aspiring content creator, newbie blogger.
+![Full Stack Developer, aspiring content creator, newbie blogger.](https://i1.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?resize=1024%2C256&ssl=1)
 
-### Hi there 👋
+I am fresh in this world that I hardly knew existed. Every time I learn one thing, a dozen new things pop up that I never knew were there. I have been studying, learning, practicing with every free moment (even if its just an hour or a few minutes to read an article). I am eager to break into this industry, where exactly I am not sure yet, still finding out my strengths from my weaknesses, but I will succeed. 
 
-<!--
-**CMcGivney/CMcGivney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS / GRAPHQL / NODE
+
+- 🔭 I’m currently working on this page. 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://raw.githubusercontent.com/CMcGivney/CMcGivney/master/<GIF_NAME>.gif" width="30px">
+
