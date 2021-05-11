@@ -8,9 +8,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-64.png (twitter icon)
+[1.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-32.png (twitter icon)
 
-[2.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png (LinkedIn icon)
+[2.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png (LinkedIn icon)
 
 <!-- Links to your social media accounts -->
 
