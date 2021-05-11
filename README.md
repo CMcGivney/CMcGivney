@@ -6,7 +6,9 @@ I am fresh in this world that I hardly knew existed. Every time I learn one thin
 
 Skills: REACT / JS / HTML / CSS / GRAPHQL / NODE
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMcGivney)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
