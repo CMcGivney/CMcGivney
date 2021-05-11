@@ -7,7 +7,7 @@ I am fresh in this world that I hardly knew existed. Every time I learn one thin
 Skills: REACT / JS / HTML / CSS / GRAPHQL / NODE
 
 ![](https://img.shields.io/badge/REACT-FUN-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-HARD-informational?style=flat&logo=CSS&logoColor=yellow&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-HARD-informational?style=flat&logo=CSS3&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-MultiTool-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 - 🔭 I’m currently working on this page.
