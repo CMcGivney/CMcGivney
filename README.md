@@ -1,7 +1,10 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/CMcGivney/CMcGivney/readme_header.png "Header")](https://www.1984Creations.com/)
+
 ### Hi there 👋
 
 <!--
 **CMcGivney/CMcGivney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/CMcGivney/CMcGivney/master/<GIF_NAME>.gif" width="30px">
