@@ -8,7 +8,8 @@ Skills: REACT / JS / HTML / CSS / GRAPHQL / NODE
 
 - 🔭 I’m currently working on this page.
 -  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMcGivney)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMcGivney&show_icons=true&theme=radical)
+
 
 
 
