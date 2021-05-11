@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="35px" height="35px>
+#### <img src="https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif" width="35px" height="35px>
 ## I'm Chris McGivney
 #### Full Stack Developer, aspiring content creator, newbie blogger.
 ![Full Stack Developer, aspiring content creator, newbie blogger.](https://i1.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?resize=1024%2C256&ssl=1)
