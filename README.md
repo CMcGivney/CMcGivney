@@ -1,5 +1,5 @@
-### Hi there # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, my name is Chris McGivney
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+my name is Chris McGivney
 #### Full Stack Developer, aspiring content creator, newbie blogger.
 ![Full Stack Developer, aspiring content creator, newbie blogger.](https://i1.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?resize=1024%2C256&ssl=1)
 
