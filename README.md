@@ -4,7 +4,7 @@
 ![Full Stack Developer, aspiring content creator, newbie blogger.](https://i1.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?resize=1024%2C256&ssl=1)
 
 <!-- About Me -->
-Every time I learn one thing, a dozen new things pop up that I never knew were there. This is why I have become so addicted to software/web development, its neverending. I have been studying, learning, practicing with every free moment (even if its just an hour or a few minutes to read an article). I am eager to break into this industry, where exactly I am not sure yet, still finding out my strengths from my weaknesses, but I will succeed. <a href="https://www.1984creations.com/">Come check out my portfolio page</a> It feels like a mess to me, when I learn a new technique I just have to add it, so it feels like frankenstein's monster of a website.
+Every time I learn one thing, a dozen new things pop up that I never knew were there. This is why I have become so addicted to software/web development, its neverending. I have been studying, learning, practicing with every free moment (even if its just an hour or a few minutes to read an article). I am eager to break into this industry, where exactly I am not sure yet, still finding out my strengths from my weaknesses, but I will succeed. <a href="https://www.1984creations.com/" rel="noopener noreferrer" target="_blank">Come check out my portfolio page</a> It feels like a mess to me, when I learn a new technique I just have to add it, so it feels like frankenstein's monster of a website.
 
 <!-- Actual text -->
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
